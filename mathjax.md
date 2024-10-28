@@ -8,11 +8,11 @@
 
 Formulele `MathJax` sunt inserate in aceeasi linie daca sunt plasate intr o pereche de simboluri `$`
 
-exemplu: Aceasta este o ecuatie: $a=bc$
+*Exemplu:* Aceasta este o ecuatie: $a=bc$
 
 Formulele `LaTex` (prin `MathJax`) se introduc pe rand nou intre doua perechi de simboluri $$.
 
-*exemplu:*
+*Exemplu:*
 
 $$a=b^c$$
 
@@ -20,11 +20,11 @@ $$a=b^c$$
 
  Se foloseste meta-caracter `LaTex`: `^`
 
-exemplu:
+*Exemplu:*
 
 $$a=10^7$$
 
-# `subscript`
+# `Subscript`
 
 se foloseste mete-caracterul `LaTex` : `_`
 
@@ -48,8 +48,8 @@ $$ 10^{10} $$
 
 # Parantezele 
 
-- Parantezele rotunde se scriu direct( nu au un inteles special in `laTex`)
-- Parantezele drepte se scriu direct ( nu au un inteles special in `laTex`)
+- Parantezele rotunde se scriu direct( nu au un inteles special in `LaTex`)
+- Parantezele drepte se scriu direct ( nu au un inteles special in `LaTex`)
 - Acoladele, deoarece ele sunt metacaractere de grupare, vor fi renderizate corect daca sunt `escapate` de intelesul lor special, punand in fata lor `metacaracterul` `\`
 
   Exemple:
